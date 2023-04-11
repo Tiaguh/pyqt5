@@ -1,0 +1,6 @@
+pip install reportlab
+pip install sqlalchemy
+pip install mysql-connector-python
+pip install pyqt5-tools
+pip install PyQt5
+C:\Program Files\Python38\Lib\site-packages\pyqt5_tools\Qt\bin
